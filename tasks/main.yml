@@ -1,6 +1,6 @@
 ---
 # tasks file for test-roles
-- debug;
+- debug:
     msg: "test-roles"
 
 - debug:
